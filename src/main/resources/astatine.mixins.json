@@ -14,7 +14,8 @@
     "SeaPickleBlockMixin",
     "ServerPlayNetworkHandlerMixin",
     "SquidEntityRendererMixin",
-    "StatFormatterMixin"
+    "StatFormatterMixin",
+    "TextRendererMixin"
   ],
   "injectors": {
     "defaultRequire": 1
